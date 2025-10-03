@@ -1,16 +1,15 @@
-## Hi there 👋
+✨ Olá, pode me chamar de Yas! ✨
 
-<!--
-**yaslazarim/yaslazarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Explorando o mundo da programação e do desenvolvimento de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e Ferramentas
+
+- HTML
+- CSS
+- JavaScript
+- React
+- PHP
+- Docker
+- SQL
